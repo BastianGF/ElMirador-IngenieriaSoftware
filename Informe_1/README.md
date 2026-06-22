@@ -8,6 +8,6 @@ Proyecto semestral - Sistema de Administración Edificio El Mirador - Ingenierí
 - Reglas de negocio
 - Carta Gantt (Con metodologia de gestión de Carta Gantt)
 - Etapas de ciclo del software
-- Presentación grupal
+- Presentación grupal 
 
 ## Entregables:
