@@ -11,3 +11,6 @@ Proyecto semestral - Sistema de Administración Edificio El Mirador - Ingenierí
 - Presentación grupal 
 
 ## Entregables:
+- Presentación
+- DAS_EP1
+- Carta Gantt
