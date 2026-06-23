@@ -8,5 +8,8 @@ Proyecto semestral - Sistema de Administración Edificio El Mirador - Ingenierí
 - Patrones de diseño: MVC, Repositorio, Observador, Fachada
 - Requisitos de calidad ISO 25010
 
-## Entregable
+## Entregables
 Evaluación Parcial 2 — Ingeniería de Software RQY1102
+- Diagramas de StarUML
+- Presentación
+- DAS_EP2
